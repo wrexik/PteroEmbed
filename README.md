@@ -17,6 +17,9 @@ Keep track of your server status with this Discord bot status monitor! This Pyth
 2. **Configuration:**
    - Set up a `config.ini` file with your Discord bot token, server IDs, and Pterodactyl panel details.
    - Customize refresh intervals and alert channels according to your preferences.
+  
+   - NOTE:
+   - Use panel.yourdomain.com/api as your API_URL
    
 3. **Run the Bot:**
    - Execute the Python script (`main.py`) to start monitoring your servers.
